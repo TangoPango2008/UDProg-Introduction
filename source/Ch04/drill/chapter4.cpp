@@ -10,7 +10,7 @@ int main()
 	double max=0;
 	double min=9999999;
 	vector<double> v;
-	while(i != "|")
+	while(i != '|')
 	{
 		cin>>i;
 		cout<<"Unit:";
